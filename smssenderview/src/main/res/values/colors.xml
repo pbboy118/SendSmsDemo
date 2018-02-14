@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_gray_cccccc">#cccccc</color>
+    <color name="color_useless_gray">#e9e9e9</color>
+    <color name="color_f47_red">#f47a63</color>
+    <color name="color_origin">#ff7218</color>
+    <color name="color_lv">#00ffc1</color>
+</resources>
